@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "name": "CORRECTIVE EXERCISES",
+    "price": 49.99,
+    "logoimg": "https://i.ibb.co/r3tDypy/11.png",
+    "bannerimg": "https://i.ibb.co/7n0cfnm/healthimg.jpg",
+    "shortdescription": "Improve your posture and overall well-being with personalized corrective exercise programs.",
+    "longdescription": "aboute the body   ipsum dolore commodi quia nemo. Explicabo amet, nemo aliquid perspiciatis consectetur placeat repudiandae facilis, corporis illo iste deserunt dolores saepe? Quisquam rem esse exercitationem deserunt saepe ut corporis, pariatur illum aut porro neque dolor atque explicabo quia alias error vitae voluptatem magnam repudiandae consequuntur nesciunt optio voluptates eos vero. Tenetur quis beatae pariatur veniam harum ipsum perspiciatis fuga aspernatur commodi sit aliquid dolor, dolorum perferendis nemo velit aliquam non accusantium quibusdam. Corporis explicabo illo illum minus, ipsa qui error dolorem sed iste inventore aliquam labore perferendis natus iusto ad fugit corrupti id, fugiat excepturi aliquid reiciendis ex non dolores. Fugit, officiis voluptate fugiat ea vero accusamus incidunt, tempora minus a beatae alias quaerat dolorum facere nam! Autem a asperiores suscipit rem accusamus, dolor beatae at? Enim, facere beatae, saepe laboriosam corporis nostrum praesentium corrupti dolore fugiat reprehenderit suscipit quisquam ullam. Dolor ut laboriosam, suscipit tempora, ab eveniet aliquam recusandae aspernatur expedita atque obcaecati quo laborum quaerat voluptatibus nostrum sunt? Molestias cum nihil quae corporis ratione! Amet odio, sed quidem recusandae perferendis earum, dolores facilis, maxime ratione velit et dolorem facere error voluptatem distinctio corporis esse commodi ullam molestias tempora itaque deleniti vel ab? Eveniet quibusdam fugiat alias ullam minima eius autem consequatur labore doloribus. Aut, quo magnam cupiditate labore recusandae voluptas autem nulla consequuntur quae, necessitatibus dolore modi suscipit ipsam ut, tempore perferendis? Reprehenderit illo odit nam quos, repudiandae sed nostrum pariatur non eius modi perferendis? Deserunt nihil doloremque dolores similique accusamus aliquam, velit necessitatibus accusantium vel ad quaerat. ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in libero et justo pellentesque convallis. Sed vel metus id leo vehicula pharetra. Nulla facilisi. Integer condimentum orci ac erat convallis, ac hendrerit augue volutpat. Sed eu tellus et ante sagittis auctor nec eu urna. Fusce sit amet viverra metus. Nullam sed facilisis metus, et cursus velit. Morbi vehicula lacus vel quam tincidunt, a auctor dui hendrerit. Nullam mattis justo quis dui venenatis, non mattis sapien dapibus. Proin eget sodales urna. Donec vitae cursus nulla. Nam sed quam quis justo pellentesque facilisis."
+  },
+  {
+    "id": 2,
+    "name": "LIFESTYLE ADVICE",
+    "price": 29.99,
+    "logoimg": "https://i.ibb.co/smzDhBG/55.png",
+    "bannerimg": "https://i.ibb.co/tLbjGGn/cartoon-posture-correction-infographics-23-2148982696.jpg",
+    "shortdescription": "Receive expert advice on adopting a healthier lifestyle and making positive choices.",
+    "longdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in libero et justo pellentesque convallis. Sed vel metus id leo vehicula pharetra. Nulla facilisi. Integer condimentum orci ac erat convallis, ac hendrerit augue volutpat. Sed eu tellus et ante sagittis auctor nec eu urna. Fusce sit amet viverra metus. Nullam sed facilisis metus, et cursus velit. Morbi vehicula lacus vel quam tincidunt, a auctor dui hendrerit. Nullam mattis justo quis dui venenatis, non mattis sapien dapibus. Proin eget sodales urna. Donec vitae cursus nulla. Nam sed quam quis justo pellentesque facilisis."
+  },
+  {
+    "id": 3,
+    "name": "SPINAL SCREENINGS",
+    "price": 39.99,
+    "logoimg": "https://i.ibb.co/vh8jrwp/33.png",
+    "bannerimg": "https://i.ibb.co/2qtwRQ7/2333.jpg",
+    "shortdescription": "Get your spine evaluated by experts through advanced screening techniques.",
+    "longdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in libero et justo pellentesque convallis. Sed vel metus id leo vehicula pharetra. Nulla facilisi. Integer condimentum orci ac erat convallis, ac hendrerit augue volutpat. Sed eu tellus et ante sagittis auctor nec eu urna. Fusce sit amet viverra metus. Nullam sed facilisis metus, et cursus velit. Morbi vehicula lacus vel quam tincidunt, a auctor dui hendrerit. Nullam mattis justo quis dui venenatis, non mattis sapien dapibus. Proin eget sodales urna. Donec vitae cursus nulla. Nam sed quam quis justo pellentesque facilisis."
+  },
+  {
+    "id": 4,
+    "name": "MASSSAGE THERAPY",
+    "price": 59.99,
+    "logoimg": "https://i.ibb.co/Jp63HJy/44.png",
+    "bannerimg": "https://i.ibb.co/Drb4X2R/medical-infographic-with-photo-23-2148361994.jpg",
+    "shortdescription": "Experience effective treatments to relieve and manage body and obzerve condition.",
+    "longdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in libero et justo pellentesque convallis. Sed vel metus id leo vehicula pharetra. Nulla facilisi. Integer condimentum orci ac erat convallis, ac hendrerit augue volutpat. Sed eu tellus et ante sagittis auctor nec eu urna. Fusce sit amet viverra metus. Nullam sed facilisis metus, et cursus velit. Morbi vehicula lacus vel quam tincidunt, a auctor dui hendrerit. Nullam mattis justo quis dui venenatis, non mattis sapien dapibus. Proin eget sodales urna. Donec vitae cursus nulla. Nam sed quam quis justo pellentesque facilisis."
+  },
+  {
+    "id": 5,
+    "name": "BODY PAIN TREATMENT",
+    "price": 59.99,
+    "logoimg": "https://i.ibb.co/nfnr6cz/22.png ",
+    "bannerimg": "https://i.ibb.co/pj4fSf2/flat-physiotherapy-logo-template-set-52683-66131.jpg",
+    "shortdescription": "Body pain treatment: Rest, ice, compression, elevation, and pain relief medications.",
+    "longdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in libero et justo pellentesque convallis. Sed vel metus id leo vehicula pharetra. Nulla facilisi. Integer condimentum orci ac erat convallis, ac hendrerit augue volutpat. Sed eu tellus et ante sagittis auctor nec eu urna. Fusce sit amet viverra metus. Nullam sed facilisis metus, et cursus velit. Morbi vehicula lacus vel quam tincidunt, a auctor dui hendrerit. Nullam mattis justo quis dui venenatis, non mattis sapien dapibus. Proin eget sodales urna. Donec vitae cursus nulla. Nam sed quam quis justo pellentesque facilisis."
+  },
+  {
+    "id": 6,
+    "name": "CHIROPRACTIC CARE",
+    "price": 69.99,
+    "logoimg": "https://i.ibb.co/m4n9ZvT/66.png",
+    "bannerimg": "https://i.ibb.co/0jWLNDy/physiotherapy-concept-illustration-114360-7494.jpg",
+    "shortdescription": "Experience the benefits of chiropractic care for improved spinal health.",
+    "longdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in libero et justo pellentesque convallis. Sed vel metus id leo vehicula pharetra. Nulla facilisi. Integer condimentum orci ac erat convallis, ac hendrerit augue volutpat. Sed eu tellus et ante sagittis auctor nec eu urna. Fusce sit amet viverra metus. Nullam sed facilisis metus, et cursus velit. Morbi vehicula lacus vel quam tincidunt, a auctor dui hendrerit. Nullam mattis justo quis dui venenatis, non mattis sapien dapibus. Proin eget sodales urna. Donec vitae cursus nulla. Nam sed quam quis justo pellentesque facilisis."
+  }
+]

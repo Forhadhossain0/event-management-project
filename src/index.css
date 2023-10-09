@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  text-align: center;
+  padding: 0;
+  overflow-x: hidden;
+  max-width: 1280px;
+  margin:  0 auto;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.heromain {
+  background: no-repeat center url(https://img.freepik.com/free-photo/team-doctors-standing-together-hospital-premises_107420-84768.jpg?w=826&t=st=1696692791~exp=1696693391~hmac=ff33db9f9d6bdc8eb166646b6183f3f7c457e70c0f127b22d4ee314e4c352379);
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.hero-contentmain{
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to right, rgba(48, 255, 158, 0.658) , rgba(255, 0, 128, 0.596));
+  position: absolute;
+
+}
+
+
+
+
+.spiner img{
+  transition: all linear .3s;
+}
+.spiner:hover img{
+  transform: rotate(45deg);
+  transition: all linear .3s;
+  box-shadow: 5px  5px 0px 0px rgba(109,40,217);
+}
+
+
+.active{
+  color: red;
+}
+
+
+.overly{
+    text-align: center;
+    padding: 120px 10px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    bottom: 0;
+    transition: left 0.3s ease-in-out;
+    left: 0;
+    color: aliceblue;
+    padding:  20px;
+}
+
+.gallery:hover .overly{
+ opacity: 0.5;
+}
